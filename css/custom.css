@@ -1,0 +1,121 @@
+
+#footer {
+    bottom: 0px;
+    position: absolute;
+}
+
+#zBox {
+    border: 15px solid none;
+    height: 275px;
+    overflow: auto;
+}
+
+#cniModal {
+    display: none;
+}
+
+#add-service {
+    cursor: pointer;
+}
+
+#pic-logement:active,
+#pic-commande:active,
+#pic-fidelite:active {
+    transform: scale(1.35);
+}
+
+.btn-same-size {
+    width: 10em;
+    height: 2.5em;
+}
+
+
+/*.bleu {
+    color : #039;
+}*/
+
+.rouge {
+    color: red;
+}
+
+table#chambres tbody td:nth-child(2) {
+    cursor: pointer;
+}
+
+table#chambres tbody tr:hover {
+    background: rgba(240, 173, 78, 0.5);
+}
+
+table#salles tbody td:nth-child(2) {
+    cursor: pointer;
+}
+
+table#salles tbody tr:hover {
+    background: rgba(240, 173, 78, 0.5);
+}
+
+.spacer {
+    margin-top: 3em;
+}
+
+.spacerRight {
+    margin-right: 5em;
+}
+
+.lien {
+    color: blue;
+}
+
+.espace {
+    width: 50em;
+}
+
+.nav-text {
+    margin-left: 35em;
+    color: blue;
+}
+
+.paginer {
+    border: solid 1px rgb(244, 244, 244);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+
+.signer {
+    margin-left: 43em;
+    font-size: 0.7em;
+    font-weight: bold;
+    color: #039;
+}
+
+.locauxFouter {
+    margin-top: 8em;
+}
+
+.FooterCom {
+    margin-top: 3em;
+}
+
+.qte {
+    width: 10px;
+}
+
+.espaceListCom {
+    width: 30em;
+}
+
+.espaceCom {
+    width: 30em;
+    margin-left: 4em;
+}
+
+.espaceIn {
+    margin-left: 10px;
+    width: 30em;
+}
